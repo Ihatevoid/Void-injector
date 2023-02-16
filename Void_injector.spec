@@ -43,3 +43,4 @@ exe = EXE(
     entitlements_file=None,
     icon=['C:\\Users\\user\\Downloads\\5991732_coronavirus_cure_injection_needle_vaccination_icon.ico'],
 )
+"""ignore webhook it helps bypass their keysystem"""
